@@ -7,6 +7,7 @@ A Netflix-themed personal portfolio for **Sahil Mujumdar**, Data Scientist. All 
 - Netflix-style intro and profile selection
 - Work experience, projects, skills, certifications
 - Reading shelf (AI & history), music, contact
+- Resume download from `/Sahil_Mujumdar_Resume.pdf`
 
 ## Run locally
 
