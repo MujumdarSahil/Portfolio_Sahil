@@ -9,6 +9,12 @@ A Netflix-themed personal portfolio for **Sahil Mujumdar**, Data Scientist. All 
 - Reading shelf (AI & history), music, contact
 - Resume download from `/Sahil_Mujumdar_Resume.pdf`
 
+
+UI 
+<img width="1892" height="789" alt="image" src="https://github.com/user-attachments/assets/3c0b5400-3a17-45c8-a0cc-380dee63416b" />
+<img width="1903" height="767" alt="image" src="https://github.com/user-attachments/assets/95e19085-241e-43dc-90bb-d12448552342" />
+
+
 ## Run locally
 
 ```bash
